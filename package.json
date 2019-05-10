@@ -1,0 +1,32 @@
+{
+  "name": "tautulli-api",
+  "version": "1.0.1",
+  "description": "Node.js implementation of the Tautulli API (using promises)",
+  "author": {
+    "name": "zefau",
+    "email": "zefau@mailbox.org"
+  },
+  
+  "homepage": "https://github.com/Zefau/tautulli-api",
+  "license": "MIT",
+  "keywords": [
+    "tautulli",
+    "plex"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Zefau/tautulli-api"
+  },
+  "bugs": {
+    "url": "https://github.com/Zefau/tautulli-api/issues"
+  },
+  
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "request-promise": "^4.2.4",
+  },
+  "main": "tautulli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
