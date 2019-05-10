@@ -23,7 +23,7 @@
   
   "readmeFilename": "README.md",
   "dependencies": {
-    "request-promise": "^4.2.4",
+    "request-promise": "^4.2.4"
   },
   "main": "tautulli.js",
   "scripts": {
