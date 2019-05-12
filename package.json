@@ -25,8 +25,11 @@
   "dependencies": {
     "request-promise": "^4.2.4"
   },
+  "devDependencies": {
+    "eslint": "^5.16.0"
+  },
   "main": "tautulli.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "eslint *.js lib/*.js"
   }
 }
