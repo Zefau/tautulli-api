@@ -30,6 +30,6 @@
   },
   "main": "tautulli.js",
   "scripts": {
-    "test": "eslint *.js lib/*.js"
+    "test": "eslint tautulli.js"
   }
 }
