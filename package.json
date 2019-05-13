@@ -1,6 +1,6 @@
 {
   "name": "tautulli-api",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Node.js implementation of the Tautulli API (using promises)",
   "author": {
     "name": "zefau",
