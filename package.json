@@ -6,7 +6,6 @@
     "name": "zefau",
     "email": "zefau@mailbox.org"
   },
-  
   "homepage": "https://github.com/Zefau/tautulli-api",
   "license": "MIT",
   "keywords": [
@@ -20,16 +19,18 @@
   "bugs": {
     "url": "https://github.com/Zefau/tautulli-api/issues"
   },
-  
   "readmeFilename": "README.md",
   "dependencies": {
     "request-promise": "^4.2.4"
   },
   "devDependencies": {
-    "eslint": "^5.16.0"
+    "chai": "^4.2.0",
+    "eslint": "^5.16.0",
+    "glob": "^7.1.4",
+    "mocha": "^6.1.4"
   },
-  "main": "tautulli.js",
+  "main": "index.js",
   "scripts": {
-    "test": "eslint tautulli.js"
+    "test": "mocha"
   }
 }
