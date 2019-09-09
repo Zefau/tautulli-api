@@ -5,9 +5,7 @@
 This is a Node.js implementation of the Tautulli API (see https://github.com/Tautulli/Tautulli/blob/master/API.md).
 
 [![NPM version](http://img.shields.io/npm/v/tautulli-api.svg)](https://www.npmjs.com/package/tautulli-api)
-[![Travis CI](https://travis-ci.org/Zefau/tautulli-api.svg?branch=master)](https://travis-ci.org/Zefau/tautulli-api)
 [![Downloads](https://img.shields.io/npm/dm/tautulli-api.svg)](https://www.npmjs.com/package/tautulli-api)
-[![Greenkeeper badge](https://badges.greenkeeper.io/Zefau/tautulli-api.svg)](https://greenkeeper.io/)
 
 [![NPM](https://nodei.co/npm/tautulli-api.png?downloads=true)](https://nodei.co/npm/tautulli-api/)
 
