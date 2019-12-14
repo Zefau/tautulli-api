@@ -24,10 +24,10 @@ const Tautulli = require('tautulli-api');
 var tautulli = new Tautulli('192.168.2.99', '8181', '475dedbe9cbc430bb68413892fedbc74'); // ip and port of Tautulli and YOUR Tautulli API token
 
 // Get the current activity on the PMS.
-tautulli.get('get_activity').fetch(function(res) { ... use res ... });
+tautulli.get('get_activity').then(function(res) { ... use res ... });
 
 // Get a list of all libraries on your server.
-tautulli.get('get_libraries').fetch(function(res) { ... use res ... });
+tautulli.get('get_libraries').then(function(res) { ... use res ... });
 ```
 
 
